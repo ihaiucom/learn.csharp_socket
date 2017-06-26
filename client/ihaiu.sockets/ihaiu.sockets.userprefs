@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{69C22264-65C7-4DD0-83D2-5CB14FA7DBC5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ihaiu.sockets/ServerClient.cs">
+    <Files>
+      <File FileName="ihaiu.sockets/Program.cs" Line="14" Column="10" />
+      <File FileName="ihaiu.sockets/ServerSocket.cs" Line="13" Column="3" />
+      <File FileName="ihaiu.sockets/ServerClient.cs" Line="40" Column="16" />
+      <File FileName="ihaiu.sockets/ServerCommand.cs" Line="32" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ihaiu.sockets" expanded="True">
+            <Node name="ihaiu.sockets" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ServerClient.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/ServerClient.cs" line="40" column="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ihaiu.sockets PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

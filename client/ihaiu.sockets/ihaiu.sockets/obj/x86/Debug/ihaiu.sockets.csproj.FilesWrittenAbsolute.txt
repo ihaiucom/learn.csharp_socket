@@ -1,0 +1,6 @@
+/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/bin/Debug/ihaiu.sockets.exe.mdb
+/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/bin/Debug/ihaiu.sockets.exe
+/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/obj/x86/Debug/ihaiu.sockets.exe
+/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/obj/x86/Debug/ihaiu.sockets.exe.mdb
+/Users/zengfeng/workspaces/www/githubpages/learn.csharp_socket/server/ihaiu.sockets/ihaiu.sockets/bin/Debug/IhaiuLog.dll
